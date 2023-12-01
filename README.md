@@ -18,5 +18,5 @@ I'm a first year student in IT for 3 years and learning web, jvs, sql and few mo
 
 I'm curretly working on how tracks every update on a website with python
 
-to reach me you can send me a dm on discord at : __hyahyaa__ or @hya5th on instagram
+to reach me you can send me a dm on discord at : __hyahyaa__ or __@hya5th__ on instagram
 
