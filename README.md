@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a second year student in IT for 3 years and learning web, jvs, sql and few more things.
-
-I'm curretly working on how tracks every update on a website with python
+IT Licence, Computer science master's student, hopefully done in 2028.
 
 to reach me you can send me a dm on discord at : __hyahyaa__ or __@hya5th__ on instagram
 
